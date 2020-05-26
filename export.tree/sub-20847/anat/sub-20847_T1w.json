@@ -1,0 +1,15 @@
+{
+"BodyPartExamined": "HEAD",
+"MagneticFieldStrength": 3,
+"Manufacturer": "Siemens",
+"ManufacturersModelName": "Trio",
+"Modality": "MR",
+"ReceiveCoilName": "32Ch_Head_3T",
+"TaskName": "None",
+"PixelSpacing": [
+1.0,
+1.0
+],
+"SliceThickness": 1.0,
+"InversionTime": 1.1
+}
