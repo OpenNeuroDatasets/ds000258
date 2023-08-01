@@ -9,31 +9,13 @@ Data were acquired with a Siemens Trio 3T MRI Scanner and a 32-channel receive-o
 
 Anatomical images were acquired using a T1-weighted magnetization prepared rapid gradient echo (MPRAGE) sequence [176 × 240 FOV; 1-mm in-plane resolution; inversion time (TI), 1,100 ms].
 
-i### Comments added by Openfmri Curators ###
-===========================================
+## Comments added by Openfmri Curators
 
-General Comments
-----------------
+### Defacing
 
-
-Defacing
---------
 Pydeface was used on all anatomical images to ensure de-identification of subjects. The code
 can be found at https://github.com/poldracklab/pydeface
 
-Quality Control
----------------
+### Quality Control
+
 MRIQC was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/stable/
-
-Where to discuss the dataset
-----------------------------
-1) www.openfmri.org/dataset/ds******/ See the comments section at the bottom of the dataset
-page.
-2) www.neurostars.org Please tag any discussion topics with the tags openfmri and dsXXXXXX.
-3) Send an email to submissions@openfmri.org. Please include the accession number in
-your email.
-
-Known Issues
-------------
-
-
