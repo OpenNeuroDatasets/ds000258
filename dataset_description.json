@@ -8,7 +8,9 @@
         "Peter Bandettini",
         "Alex Martin"
     ],
-    "Funding": "Supported by grants ZIAMH002920 (A.M.), NCT01031407 (A.M.) and the Sackler Institute for Developmental Psychobiology (J.P.).",
+    "Funding": [
+        "Supported by grants ZIAMH002920 (A.M.), NCT01031407 (A.M.) and the Sackler Institute for Developmental Psychobiology (J.P.)."
+    ],
     "ReferencesAndLinks": [
         "https://www.jonathanpower.net/paper-multiecho.html"
     ],
